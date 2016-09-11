@@ -1,18 +1,28 @@
 body{
     background-color: gray;
     width: 900px;
+    color: white;
+    padding:1rem;
 
 }
 .content{
     background-image: url("http://lorempixel.com/400/200/");
+    padding:1rem;
 
 }
  h1 {
-      color: white;
+      color: tomato;
+     font-size:3rem;
 
   }
 
 p {
     color: white;
+    font-size:2rem;
 
 }
+.wrap{
+    background-color: tomato;
+    padding:1rem;
+}
+
