@@ -1,0 +1,6 @@
+npm install
+bower install
+
+run server
+stop server
+run build

@@ -1,0 +1,21 @@
+{
+  "name": "michael-server",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "victor <victor@tvuna.co.il>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
